@@ -1,0 +1,25 @@
+{
+  "name": "node-farm",
+  "version": "1.0.0",
+  "description": "Learning node.js",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index.js"
+  },
+  "author": "Sujata Mishra",
+  "license": "ISC",
+  "dependencies": {
+    "slugify": "^1.5.3"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.7"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sujata13/Node-Farm.git"
+  },
+  "bugs": {
+    "url": "https://github.com/sujata13/Node-Farm/issues"
+  },
+  "homepage": "https://github.com/sujata13/Node-Farm#readme"
+}
